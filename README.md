@@ -32,10 +32,5 @@ python src/Scraping_Hadist.py
 
 Kontribusi terbuka! Silakan buat _issue_ untuk memberikan saran atau _pull request_ untuk berkontribusi pada pengembangan proyek ini.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [Nama Lisensi](LICENSE). Silakan lihat berkas lisensi untuk informasi lebih lanjut.
-
----
 
 Terima kasih telah menggunakan repository Web Scraping Hadist. Semoga proyek ini bermanfaat!
